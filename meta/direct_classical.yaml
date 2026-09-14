@@ -1,8 +1,8 @@
 payload:
   - IP-CIDR,64.90.3.34/32,no-resolve
-  - DST-PORT,3478,DIRECT
-  - DOMAIN-SUFFIX,hccb.cc,DIRECT
-  - DOMAIN-SUFFIX,hzcjtz.com,DIRECT
-  - DOMAIN-SUFFIX,sqlark.com,DIRECT
-  - DOMAIN-SUFFIX,hzjuxiu.com,DIRECT
-  - DOMAIN-SUFFIX,hydsoft.com,DIRECT
+  - DST-PORT,3478
+  - DOMAIN-SUFFIX,hccb.cc
+  - DOMAIN-SUFFIX,hzcjtz.com
+  - DOMAIN-SUFFIX,sqlark.com
+  - DOMAIN-SUFFIX,hzjuxiu.com
+  - DOMAIN-SUFFIX,hydsoft.com
